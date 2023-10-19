@@ -1,2 +1,2 @@
 # Exercicios-Python
-Exercícios do Beewwcrowd 
+Exercícios realizados na plataforma Beecrowd
